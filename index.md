@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image]([src](https://pt.gravatar.com/gravatars/edit-rating/60a8b57a0e4d77e02139c213f743cfd5))
+[Link](https://pt.gravatar.com/gravatars/edit-rating/60a8b57a0e4d77e02139c213f743cfd5) and ![Image]([src](https://pt.gravatar.com/gravatars/edit-rating/60a8b57a0e4d77e02139c213f743cfd5))
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
